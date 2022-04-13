@@ -1,0 +1,66 @@
+body    {
+    
+    background-color: lightblue;
+}
+p {
+    color: a;
+}
+p {
+    font-size: 35px;
+}
+h1{
+    font-size: 55px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+}
+p {
+    color: rgb(0, 0, 0);
+}
+a {
+    font-size: 30px;
+}
+
+a {
+    color: rgb(0, 0, 211);
+}
+button {
+    font-size: large;
+}
+text {
+    font-size: 30px;
+}
+button {
+    font-size: larger;
+}
+p {
+
+    font-size: 50px;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+a.lin {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+h1 {
+    margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+}
+rb {
+    font-size: larger;
+   
+}
